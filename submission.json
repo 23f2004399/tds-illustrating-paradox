@@ -1,0 +1,9 @@
+{
+  "prompt": "A surrealist photographic diptych, split vertically by a sharp black line. The style is conceptual and cinematic. Left Panel: wide shot. At a fork in a dark, atmospheric forest road stands a solitary figure, facing away from the camera. The road splits perfectly into two diverging paths. The left path terminates in a deeply unsettling, fractured, archaic stone gatehouse. Visibility is high, and through the gate, thousands of large, creeping, visibly dangerous shadows (creepy entities) are moving around. The threat is quantified and explicit. The right path terminates abruptly into a featureless, light-absorbing, vertical matte-black void-wall. It reveals nothing. The figure is standing perfectly still, posture radiating tense contemplation, head looking back and forth between the two diverging options. Right Panel: Closer shot. The solitary figure is actively walking. They are moving with deliberate strides down the left path, actively moving *away* from the black void-wall. They are stepping directly toward the gatehouse of the creeping shadows, choosing the visible threat. The unblemished black void is left completely behind them. The visual logic is the stark contrast of a human figure irrationality committing to the visible horror rather than risking the featureless void. No text, numbers, formulas, or chart elements are present anywhere in the composition.",
+
+  "model": "Gemini 3 Flash Image",
+
+  "paradox": "The Ellsberg Paradox",
+
+  "visual_logic": "A tense figure at a diverging road fork deliberately chooses to walk toward a gatehouse filled with explicit, visible threats, rejecting a perfect, clean opaque black void beside it, embodying the irrational preference for known dangers over unknown ambiguity."
+}
